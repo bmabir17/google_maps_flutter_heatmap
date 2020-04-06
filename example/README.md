@@ -1,6 +1,6 @@
-# google_maps_flutter_example
+# google_maps_flutter_heatmap_example
 
-Demonstrates how to use the google_maps_flutter plugin.
+Demonstrates how to use the google_maps_flutter_heatmap plugin.
 
 ## Getting Started
 

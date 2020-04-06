@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-part of google_maps_flutter;
+part of google_maps_flutter_heatmap;
 
 /// Cap that can be applied at the start or end vertex of a [Polyline].
 @immutable

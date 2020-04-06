@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-part of google_maps_flutter;
+part of google_maps_flutter_heatmap;
 
 /// Type of map tiles to display.
 // Enum constants must be indexed to match the corresponding int constants of

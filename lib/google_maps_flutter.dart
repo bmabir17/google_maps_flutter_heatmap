@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-library google_maps_flutter;
+library google_maps_flutter_heatmap;
 
 import 'dart:async';
 import 'dart:typed_data';

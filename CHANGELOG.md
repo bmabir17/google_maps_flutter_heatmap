@@ -1,6 +1,6 @@
 ## 0.5.21+16
 
-* Adds support for heatmaps in google_maps_flutter. 
+* Adds support for heatmaps in google_maps_flutter_heatmap. 
 
 ## 0.5.21+15
 
@@ -55,7 +55,7 @@
 
 ## 0.5.21+3
 
-* Fix `myLocationButton` bug in `google_maps_flutter` iOS.
+* Fix `myLocationButton` bug in `google_maps_flutter_heatmap` iOS.
 
 ## 0.5.21+2
 
