@@ -1,3 +1,7 @@
+# Forked package from 
+https://github.com/SvenSlijkoord/plugins/tree/implement_google_maps_flutter_heatmap
+
+
 # Google Maps for Flutter (Developers Preview)
 
 [![pub package](https://img.shields.io/pub/v/google_maps_flutter_heatmap.svg)](https://pub.dartlang.org/packages/google_maps_flutter_heatmap)
