@@ -6,7 +6,7 @@ https://github.com/SvenSlijkoord/plugins/tree/implement_google_maps_flutter_heat
 
 [![pub package](https://img.shields.io/pub/v/google_maps_flutter_heatmap.svg)](https://pub.dartlang.org/packages/google_maps_flutter_heatmap)
 
-A Flutter plugin that provides a [Google Maps](https://developers.google.com/maps/) widget.
+A Flutter plugin that provides a [Google Maps](https://developers.google.com/maps/) widget with heatmap support.
 
 ## Developers Preview Status
 The plugin relies on Flutter's new mechanism for embedding Android and iOS views.

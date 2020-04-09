@@ -1,7 +1,7 @@
 name: google_maps_flutter_heatmap
 description: A Flutter plugin for integrating Google Maps in iOS and Android applications. with heatmap support
 homepage: https://github.com/bmabir17/google_maps_flutter_heatmap
-version: 0.1.1+1
+version: 0.1.1+2
 
 dependencies:
   flutter:
