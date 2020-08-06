@@ -32,7 +32,7 @@ public class GoogleMapsPlugin implements Application.ActivityLifecycleCallbacks 
       // We stop the registration process as this plugin is foreground only.
       return;
     }
-    final GoogleMapsPlugin plugin = new GoogleMapsPlugin(registrar);
+    final GoogleMapsPlugin plugin = new GoogleMapsPlugin(registrar.activity());
     registrar.activity().getApplication().registerActivityLifecycleCallbacks(plugin);
     registrar
         .platformViewRegistry()
@@ -92,7 +92,7 @@ public class GoogleMapsPlugin implements Application.ActivityLifecycleCallbacks 
     state.set(DESTROYED);
   }
 
-  private GoogleMapsPlugin(Registrar registrar) {
-    this.registrarActivityHashCode = registrar.activity().hashCode();
+  private GoogleMapsPlugin(Activity Activity) {
+    this.registrarActivityHashCode = Activity.hashCode();
   }
 }
