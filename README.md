@@ -186,3 +186,5 @@ class MapSampleState extends State<MapSample> {
 ```
 
 See the `example` directory for a complete sample app.
+
+[![Find and sponsor issues](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/r/bmabir17/google_maps_flutter_heatmap)
