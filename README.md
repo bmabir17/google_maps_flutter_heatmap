@@ -1,5 +1,6 @@
 # Google Maps for Flutter (Developers Preview)
 
+[![Find and sponsor issues](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/r/bmabir17/google_maps_flutter_heatmap)
 [![pub package](https://img.shields.io/pub/v/google_maps_flutter_heatmap.svg)](https://pub.dartlang.org/packages/google_maps_flutter_heatmap)
 ![Flutter CI](https://github.com/bmabir17/google_maps_flutter_heatmap/workflows/Dart%20CI/badge.svg?branch=master)
 
@@ -187,4 +188,3 @@ class MapSampleState extends State<MapSample> {
 
 See the `example` directory for a complete sample app.
 
-[![Find and sponsor issues](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/r/bmabir17/google_maps_flutter_heatmap)
